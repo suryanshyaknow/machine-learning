@@ -58,6 +58,7 @@ cover/
 
 # Models
 *.sav
+*.pkl
 
 # Django stuff:
 *.log
